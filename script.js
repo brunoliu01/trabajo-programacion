@@ -10,4 +10,4 @@ class Velocity {
 }
 
 const goku = new Velocity(500, 5)
-console.log(`La velocidad de goku es ${goku.getVelocity()}`);
+console.log(`La velocidad de goku es: ${goku.getVelocity()}`);
