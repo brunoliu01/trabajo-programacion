@@ -4,7 +4,7 @@ class Velocity {
 		this.time = time;
 	}
 
-	getVelocity {
+	getVelocity() {
 		return this.distance/this.time;
 	}
 }
